@@ -1,3 +1,9 @@
 # To DO
 
-- [] a
++ [X] a
+
++ Checkbox demo
+  + [x] test
+  + [x] test
+  + [] test
+  + [x] test
