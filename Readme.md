@@ -26,7 +26,7 @@ My Laptop Specs are :
 
 # **To DO**
 
----
+
 
 - **Qemu/KVM install/config :**
     - [ ]  Installing packages :
